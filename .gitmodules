@@ -1,0 +1,6 @@
+[submodule "amazon-clone"]
+	path = amazon-clone
+	url = https://github.com/amanjain4103/amazon-clone.git
+[submodule "amazon-clone-node-server"]
+	path = amazon-clone-node-server
+	url = https://github.com/amanjain4103/amazon-clone-node-server.git
